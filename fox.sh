@@ -23,6 +23,7 @@ read -p "JAWAB :" pil;
 if [ $pil = 1 ]
 then
 clear
+echo "+++++++++++++++++++++++++++++++++++++++++++++++"
 echo "SYARAT DAN KETENTUAN"
 echo "SCRIPT DI UPDATE 1x SEMINGGU"
 echo "PREMIUM : 20k"
@@ -35,7 +36,8 @@ echo "SETIAP ADA BELI SCRIPT PASSWORD AKAN DI GANTI!!"
 echo "TENANG AJH ANDA TETAP MASIH BISA MENGKASESNYA"
 echo 
 echo "JIKA BERMINAT SILAHKAN PM WA :"
-echo "WA : 085275684945"
+echo "WA : 085275684845"
+echo "+++++++++++++++++++++++++++++++++++++++++++++++++"
 fi
 
 if [ $pil = 2 ]
